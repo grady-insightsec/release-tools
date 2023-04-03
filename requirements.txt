@@ -4,4 +4,4 @@ python-gnupg
 aiohttp
 blurb
 sigstore<1.1
-apache<2
+nginx
